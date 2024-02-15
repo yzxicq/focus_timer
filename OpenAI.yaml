@@ -1,27 +1,45 @@
-payload:
-  # > ChatGPT
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,openai.com
-
-  # > Chat GPT API & CDN
-  - DOMAIN-SUFFIX,cdn.oaistatic.com
-  - DOMAIN,chat.openai.com.cdn.cloudflare.net
-  - DOMAIN,openaiapi-site.azureedge.net
-  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
-  - DOMAIN,production-openaicom-storage.azureedge.net
-
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
+- DOMAIN,browser-intake-datadoghq.com,🇳🇱荷兰
+- DOMAIN,static.cloudflareinsights.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,ai.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,algolia.net,🇳🇱荷兰
+- DOMAIN-SUFFIX,api.statsig.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,chatgpt.livekit.cloud,🇳🇱荷兰
+- DOMAIN-SUFFIX,client-api.arkoselabs.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,events.statsigapi.net,🇳🇱荷兰
+- DOMAIN-SUFFIX,featuregates.org,🇳🇱荷兰
+- DOMAIN-SUFFIX,host.livekit.cloud,🇳🇱荷兰
+- DOMAIN-SUFFIX,identrust.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,intercom.io,🇳🇱荷兰
+- DOMAIN-SUFFIX,intercomcdn.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,launchdarkly.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,oaistatic.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,oaiusercontent.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,observeit.net,🇳🇱荷兰
+- DOMAIN-SUFFIX,poe.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,segment.io,🇳🇱荷兰
+- DOMAIN-SUFFIX,sentry.io,🇳🇱荷兰
+- DOMAIN-SUFFIX,stripe.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,turn.livekit.cloud,🇳🇱荷兰
+- DOMAIN-SUFFIX,chatgpt.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,openai.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,stripe.com,🇳🇱荷兰
+# > Chat GPT API & CDN
+- DOMAIN-SUFFIX,cdn.oaistatic.com,🇳🇱荷兰
+- DOMAIN,chat.openai.com.cdn.cloudflare.net,🇳🇱荷兰
+- DOMAIN,openaiapi-site.azureedge.net,🇳🇱荷兰
+- DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,🇳🇱荷兰
+- DOMAIN,openaicomproductionae4b.blob.core.windows.net,🇳🇱荷兰
+- DOMAIN,production-openaicom-storage.azureedge.net,🇳🇱荷兰
+- DOMAIN-SUFFIX,oaistatic.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,oaiusercontent.com,🇳🇱荷兰
 
   # > New Bing
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bingapis.com
+##- DOMAIN-SUFFIX,bing.com
+##- DOMAIN-SUFFIX,bingapis.com
 
   # > Claude
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai
+- DOMAIN-SUFFIX,anthropic.com,🇳🇱荷兰
+- DOMAIN-SUFFIX,claude.ai,🇳🇱荷兰
 
   # > Bard
-  - DOMAIN,bard.google.com
+- DOMAIN,bard.google.com,🇳🇱荷兰
